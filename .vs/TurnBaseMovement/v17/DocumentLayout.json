@@ -1,0 +1,234 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\dnjido\\Documents\\UnityGame\\TurnBaseMovement\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B1748976-0EED-3DFA-4314-75C4AD100A1E}|Assembly-CSharp.csproj|C:\\Users\\dnjido\\Documents\\UnityGame\\TurnBaseMovement\\assets\\entity\\scripts\\bspalgorithm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1748976-0EED-3DFA-4314-75C4AD100A1E}|Assembly-CSharp.csproj|solutionrelative:assets\\entity\\scripts\\bspalgorithm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1748976-0EED-3DFA-4314-75C4AD100A1E}|Assembly-CSharp.csproj|c:\\users\\dnjido\\documents\\unitygame\\turnbasemovement\\assets\\entity\\scripts\\nodes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1748976-0EED-3DFA-4314-75C4AD100A1E}|Assembly-CSharp.csproj|solutionrelative:assets\\entity\\scripts\\nodes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1748976-0EED-3DFA-4314-75C4AD100A1E}|Assembly-CSharp.csproj|C:\\Users\\dnjido\\Documents\\UnityGame\\TurnBaseMovement\\assets\\entity\\scripts\\astaralgorithm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1748976-0EED-3DFA-4314-75C4AD100A1E}|Assembly-CSharp.csproj|solutionrelative:assets\\entity\\scripts\\astaralgorithm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1748976-0EED-3DFA-4314-75C4AD100A1E}|Assembly-CSharp.csproj|C:\\Users\\dnjido\\Documents\\UnityGame\\TurnBaseMovement\\assets\\entity\\scripts\\cursorposition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1748976-0EED-3DFA-4314-75C4AD100A1E}|Assembly-CSharp.csproj|solutionrelative:assets\\entity\\scripts\\cursorposition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1748976-0EED-3DFA-4314-75C4AD100A1E}|Assembly-CSharp.csproj|C:\\Users\\dnjido\\Documents\\UnityGame\\TurnBaseMovement\\assets\\entity\\scripts\\titlegenerate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1748976-0EED-3DFA-4314-75C4AD100A1E}|Assembly-CSharp.csproj|solutionrelative:assets\\entity\\scripts\\titlegenerate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1748976-0EED-3DFA-4314-75C4AD100A1E}|Assembly-CSharp.csproj|C:\\Users\\dnjido\\Documents\\UnityGame\\TurnBaseMovement\\assets\\entity\\scripts\\cameramover.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1748976-0EED-3DFA-4314-75C4AD100A1E}|Assembly-CSharp.csproj|solutionrelative:assets\\entity\\scripts\\cameramover.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1748976-0EED-3DFA-4314-75C4AD100A1E}|Assembly-CSharp.csproj|C:\\Users\\dnjido\\Documents\\UnityGame\\TurnBaseMovement\\assets\\entity\\scripts\\xmlmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1748976-0EED-3DFA-4314-75C4AD100A1E}|Assembly-CSharp.csproj|solutionrelative:assets\\entity\\scripts\\xmlmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1748976-0EED-3DFA-4314-75C4AD100A1E}|Assembly-CSharp.csproj|C:\\Users\\dnjido\\Documents\\UnityGame\\TurnBaseMovement\\assets\\entity\\scripts\\savemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1748976-0EED-3DFA-4314-75C4AD100A1E}|Assembly-CSharp.csproj|solutionrelative:assets\\entity\\scripts\\savemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1748976-0EED-3DFA-4314-75C4AD100A1E}|Assembly-CSharp.csproj|C:\\Users\\dnjido\\Documents\\UnityGame\\TurnBaseMovement\\assets\\entity\\scripts\\grid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1748976-0EED-3DFA-4314-75C4AD100A1E}|Assembly-CSharp.csproj|solutionrelative:assets\\entity\\scripts\\grid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1748976-0EED-3DFA-4314-75C4AD100A1E}|Assembly-CSharp.csproj|C:\\Users\\dnjido\\Documents\\UnityGame\\TurnBaseMovement\\assets\\entity\\scripts\\charactermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1748976-0EED-3DFA-4314-75C4AD100A1E}|Assembly-CSharp.csproj|solutionrelative:assets\\entity\\scripts\\charactermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1748976-0EED-3DFA-4314-75C4AD100A1E}|Assembly-CSharp.csproj|C:\\Users\\dnjido\\Documents\\UnityGame\\TurnBaseMovement\\assets\\ui\\scripts\\endturn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1748976-0EED-3DFA-4314-75C4AD100A1E}|Assembly-CSharp.csproj|solutionrelative:assets\\ui\\scripts\\endturn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1748976-0EED-3DFA-4314-75C4AD100A1E}|Assembly-CSharp.csproj|C:\\Users\\dnjido\\Documents\\UnityGame\\TurnBaseMovement\\assets\\entity\\scripts\\gameinit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1748976-0EED-3DFA-4314-75C4AD100A1E}|Assembly-CSharp.csproj|solutionrelative:assets\\entity\\scripts\\gameinit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1748976-0EED-3DFA-4314-75C4AD100A1E}|Assembly-CSharp.csproj|C:\\Users\\dnjido\\Documents\\UnityGame\\TurnBaseMovement\\assets\\ui\\scripts\\turnscounter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1748976-0EED-3DFA-4314-75C4AD100A1E}|Assembly-CSharp.csproj|solutionrelative:assets\\ui\\scripts\\turnscounter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{6324226f-61b6-4f28-92ee-18d4b5fe1e48}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "EndTurn.cs",
+              "DocumentMoniker": "C:\\Users\\dnjido\\Documents\\UnityGame\\TurnBaseMovement\\Assets\\UI\\Scripts\\EndTurn.cs",
+              "RelativeDocumentMoniker": "Assets\\UI\\Scripts\\EndTurn.cs",
+              "ToolTip": "C:\\Users\\dnjido\\Documents\\UnityGame\\TurnBaseMovement\\Assets\\UI\\Scripts\\EndTurn.cs",
+              "RelativeToolTip": "Assets\\UI\\Scripts\\EndTurn.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-12T17:55:22.534Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "TurnsCounter.cs",
+              "DocumentMoniker": "C:\\Users\\dnjido\\Documents\\UnityGame\\TurnBaseMovement\\Assets\\UI\\Scripts\\TurnsCounter.cs",
+              "RelativeDocumentMoniker": "Assets\\UI\\Scripts\\TurnsCounter.cs",
+              "ToolTip": "C:\\Users\\dnjido\\Documents\\UnityGame\\TurnBaseMovement\\Assets\\UI\\Scripts\\TurnsCounter.cs",
+              "RelativeToolTip": "Assets\\UI\\Scripts\\TurnsCounter.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAABJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-12T17:27:31.1Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "GameInit.cs",
+              "DocumentMoniker": "C:\\Users\\dnjido\\Documents\\UnityGame\\TurnBaseMovement\\Assets\\Entity\\Scripts\\GameInit.cs",
+              "RelativeDocumentMoniker": "Assets\\Entity\\Scripts\\GameInit.cs",
+              "ToolTip": "C:\\Users\\dnjido\\Documents\\UnityGame\\TurnBaseMovement\\Assets\\Entity\\Scripts\\GameInit.cs",
+              "RelativeToolTip": "Assets\\Entity\\Scripts\\GameInit.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-12T14:50:29.924Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CharacterMovement.cs",
+              "DocumentMoniker": "C:\\Users\\dnjido\\Documents\\UnityGame\\TurnBaseMovement\\Assets\\Entity\\Scripts\\CharacterMovement.cs",
+              "RelativeDocumentMoniker": "Assets\\Entity\\Scripts\\CharacterMovement.cs",
+              "ToolTip": "C:\\Users\\dnjido\\Documents\\UnityGame\\TurnBaseMovement\\Assets\\Entity\\Scripts\\CharacterMovement.cs",
+              "RelativeToolTip": "Assets\\Entity\\Scripts\\CharacterMovement.cs",
+              "ViewState": "AQIAAG8AAAAAAAAAAAAAAIUAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-10T09:39:36.778Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Grid.cs",
+              "DocumentMoniker": "C:\\Users\\dnjido\\Documents\\UnityGame\\TurnBaseMovement\\Assets\\Entity\\Scripts\\Grid.cs",
+              "RelativeDocumentMoniker": "Assets\\Entity\\Scripts\\Grid.cs",
+              "ToolTip": "C:\\Users\\dnjido\\Documents\\UnityGame\\TurnBaseMovement\\Assets\\Entity\\Scripts\\Grid.cs",
+              "RelativeToolTip": "Assets\\Entity\\Scripts\\Grid.cs",
+              "ViewState": "AQIAACcAAAAAAAAAAAAAADYAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-12T09:23:33.489Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SaveManager.cs",
+              "DocumentMoniker": "C:\\Users\\dnjido\\Documents\\UnityGame\\TurnBaseMovement\\Assets\\Entity\\Scripts\\SaveManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Entity\\Scripts\\SaveManager.cs",
+              "ToolTip": "C:\\Users\\dnjido\\Documents\\UnityGame\\TurnBaseMovement\\Assets\\Entity\\Scripts\\SaveManager.cs",
+              "RelativeToolTip": "Assets\\Entity\\Scripts\\SaveManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAABGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-12T10:39:50.855Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "XMLManager.cs",
+              "DocumentMoniker": "C:\\Users\\dnjido\\Documents\\UnityGame\\TurnBaseMovement\\Assets\\Entity\\Scripts\\XMLManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Entity\\Scripts\\XMLManager.cs",
+              "ToolTip": "C:\\Users\\dnjido\\Documents\\UnityGame\\TurnBaseMovement\\Assets\\Entity\\Scripts\\XMLManager.cs",
+              "RelativeToolTip": "Assets\\Entity\\Scripts\\XMLManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-12T10:34:49.086Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TitleGenerate.cs",
+              "DocumentMoniker": "C:\\Users\\dnjido\\Documents\\UnityGame\\TurnBaseMovement\\Assets\\Entity\\Scripts\\TitleGenerate.cs",
+              "RelativeDocumentMoniker": "Assets\\Entity\\Scripts\\TitleGenerate.cs",
+              "ToolTip": "C:\\Users\\dnjido\\Documents\\UnityGame\\TurnBaseMovement\\Assets\\Entity\\Scripts\\TitleGenerate.cs",
+              "RelativeToolTip": "Assets\\Entity\\Scripts\\TitleGenerate.cs",
+              "ViewState": "AQIAACoAAAAAAAAAAAAAADkAAABJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-11T09:13:06.329Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CameraMover.cs",
+              "DocumentMoniker": "C:\\Users\\dnjido\\Documents\\UnityGame\\TurnBaseMovement\\Assets\\Entity\\Scripts\\CameraMover.cs",
+              "RelativeDocumentMoniker": "Assets\\Entity\\Scripts\\CameraMover.cs",
+              "ToolTip": "C:\\Users\\dnjido\\Documents\\UnityGame\\TurnBaseMovement\\Assets\\Entity\\Scripts\\CameraMover.cs",
+              "RelativeToolTip": "Assets\\Entity\\Scripts\\CameraMover.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-11T17:48:12.509Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BSPAlgorithm.cs",
+              "DocumentMoniker": "C:\\Users\\dnjido\\Documents\\UnityGame\\TurnBaseMovement\\Assets\\Entity\\Scripts\\BSPAlgorithm.cs",
+              "RelativeDocumentMoniker": "Assets\\Entity\\Scripts\\BSPAlgorithm.cs",
+              "ToolTip": "C:\\Users\\dnjido\\Documents\\UnityGame\\TurnBaseMovement\\Assets\\Entity\\Scripts\\BSPAlgorithm.cs",
+              "RelativeToolTip": "Assets\\Entity\\Scripts\\BSPAlgorithm.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-11T08:30:29.023Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CursorPosition.cs",
+              "DocumentMoniker": "C:\\Users\\dnjido\\Documents\\UnityGame\\TurnBaseMovement\\Assets\\Entity\\Scripts\\CursorPosition.cs",
+              "RelativeDocumentMoniker": "Assets\\Entity\\Scripts\\CursorPosition.cs",
+              "ToolTip": "C:\\Users\\dnjido\\Documents\\UnityGame\\TurnBaseMovement\\Assets\\Entity\\Scripts\\CursorPosition.cs",
+              "RelativeToolTip": "Assets\\Entity\\Scripts\\CursorPosition.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-10T10:17:29.994Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AStarAlgorithm.cs",
+              "DocumentMoniker": "C:\\Users\\dnjido\\Documents\\UnityGame\\TurnBaseMovement\\Assets\\Entity\\Scripts\\AStarAlgorithm.cs",
+              "RelativeDocumentMoniker": "Assets\\Entity\\Scripts\\AStarAlgorithm.cs",
+              "ToolTip": "C:\\Users\\dnjido\\Documents\\UnityGame\\TurnBaseMovement\\Assets\\Entity\\Scripts\\AStarAlgorithm.cs",
+              "RelativeToolTip": "Assets\\Entity\\Scripts\\AStarAlgorithm.cs",
+              "ViewState": "AQIAAEgAAAAAAAAAAAAAADQAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-10T09:29:54.693Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Nodes.cs",
+              "DocumentMoniker": "C:\\Users\\dnjido\\Documents\\UnityGame\\TurnBaseMovement\\Assets\\Entity\\Scripts\\Nodes.cs",
+              "RelativeDocumentMoniker": "Assets\\Entity\\Scripts\\Nodes.cs",
+              "ToolTip": "C:\\Users\\dnjido\\Documents\\UnityGame\\TurnBaseMovement\\Assets\\Entity\\Scripts\\Nodes.cs",
+              "RelativeToolTip": "Assets\\Entity\\Scripts\\Nodes.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-10T09:28:42.435Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
